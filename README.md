@@ -1,5 +1,5 @@
-node-gd-magicopen
-=================
+node-gd-image2pixels
+====================
 
 Turns an image loaded by [node-gd](https://github.com/mikesmullin/node-gd) into a multidimensional pixel array organized by row and column.
 
