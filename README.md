@@ -6,4 +6,4 @@ Turns an image loaded by [node-gd](https://github.com/mikesmullin/node-gd) into 
 Usage
 =====
 
-See example/index.js
+See [example/index.js](https://github.com/Harrison-M/node-gd-image2pixels/blob/master/example/index.js)
