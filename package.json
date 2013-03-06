@@ -1,0 +1,23 @@
+{
+    "name": "gd-image2pixels",
+    "description": "Uses a node-gd image object to create a two-dimensional array of pixel objects",
+    "version": "0.1.0",
+    "main": "./index.js",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Harrison-M/node-gd-image2pixels.git"
+    },
+    "homepage": "https://github.com/Harrison-M/node-gd-image2pixels.git",
+    "keywords": [
+        "gd",
+        "pixels",
+        "image"
+    ],
+    "author": {
+        "name": "Harrison Massey",
+        "email": "harrison.massey@gmail.com",
+        "url": "https://github.com/Harrison-M"
+    },
+    "license": "MIT"
+}
